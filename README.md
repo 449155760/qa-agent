@@ -18,13 +18,6 @@ python demo.py
 python -m unittest discover -s tests
 ```
 
-如使用 Codex bundled Python：
-
-```powershell
-& 'C:\Users\刘佳煜\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' demo.py
-& 'C:\Users\刘佳煜\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m unittest discover -s tests
-```
-
 ## 目录结构
 
 ```text
